@@ -18,7 +18,7 @@ import { jobLoadAction } from "../redux/actions/jobAction";
 import { Link, useParams } from "react-router-dom";
 import CardElement from "../component/CardElement";
 import Footer from "../component/Footer";
-import LoadingBox from "../component/LooadingBox";
+import LoadingBox from "../component/LoadingBox";
 import SelectComponent from "../component/SelectComponent";
 import { jobTypeLoadAction } from "../redux/actions/jobTypeAction";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
